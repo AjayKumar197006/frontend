@@ -1,0 +1,11 @@
+.quotes
+{
+    flex-direction:column;
+    gap:50px;
+    color:aliceblue
+}
+.Quotes-Section
+{
+    background-color: #183b54;
+    padding:120px;
+}

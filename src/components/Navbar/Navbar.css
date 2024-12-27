@@ -1,0 +1,52 @@
+.logo
+{
+    overflow: hidden;
+}
+.logo img
+{
+    width:200px;
+}
+.nav
+{
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+}
+.menu ul
+{
+    justify-content: end;
+    gap:40px;
+}
+.menu
+{
+    flex-basis: 730px;
+}
+
+.menu ul li a
+{
+    font-size: 24px;;
+}
+
+.hover-links{
+    color:#183b56
+}
+.primary-button
+{
+    border-radius: 6px;
+    font-weight: 700;
+    padding: 12px 24px;
+    color:white;
+    background-color: #2294ed;
+}
+.secondary-button
+{
+    border:0.5px solid #577592;
+    border-radius: 6px;
+    font-weight: 700;
+    padding: 12px 24px;
+}
+
+@media only screen and (min-width: 768px) 
+{
+    
+}
